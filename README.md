@@ -14,7 +14,7 @@ Add this line to your application's Gemfile:
 
     or
 
-    gem 'twitter-typeahead-rails', :git => "git://github.com/yourabi/twitter-typeahead-rails.git"
+    gem 'twitter-typeahead-rails', github: 'renuo/twitter-typeahead-rails'
 
 
 And then execute:
@@ -72,7 +72,7 @@ $('.example-numbers .typeahead').typeahead(null, {
 });
 ```
 
-Currently this version tracks version v0.10.2.
+Currently this version tracks version v0.10.4.
 
 ## Contributing
 
